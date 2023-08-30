@@ -8,7 +8,7 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando1721&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando1721&hide)
 
 
 
